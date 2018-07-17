@@ -14,4 +14,9 @@ open index.html
 
 You will see "Hello, Kotlin!" in console of your browser's developer panel.
 
+Resources
+---------
+
+- <https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date/toLocaleDateString>
+
 
